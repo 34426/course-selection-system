@@ -35,7 +35,7 @@ java学生选课系统springboot+vue学生选课系统
 
 ### 2、前端运行界面
 
-![img_2.png](img_2.png)
+![img_2.png](imgs/img_2.png)
 
 ## 三、系统部分功能界面展示
 
